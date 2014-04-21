@@ -17,6 +17,6 @@ result_string = (start_number..end_number).inject("") { |string, number| string 
 
 file.write(result_string)
 
-puts "Sucess!"
+puts "Success!"
 
 file.close()
