@@ -11,5 +11,6 @@ Author: [Kevin](http://blog.cgmlife.net/)
 ##使用
 
 1. 安裝任一版本 Ruby。
-2. 在 Terminal 輸入 <code>ruby markdown_template.rb</code>。
-3. 接著請按照程式提示內容輸入必要資訊即可。
+2. <code>git clone</code> 這份專案。
+3. 在 Terminal 輸入 <code>ruby markdown_template.rb</code>。
+4. 接著請按照程式提示內容輸入必要資訊即可。
