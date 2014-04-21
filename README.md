@@ -6,7 +6,7 @@ Author: [Kevin](http://blog.cgmlife.net/)
 ##功用
 
 1. 產生一個新 Markdwon file 並且在其內容中加上您要的起始編號至結尾編號。
-2. 在現有 Markdown file 隻內容中加上您要的起始編號至結尾編號。
+2. 在現有 Markdown file 之內容中加上您要的起始編號至結尾編號。
 
 ##使用
 
